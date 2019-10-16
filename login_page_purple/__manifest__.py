@@ -3,7 +3,7 @@
     'name': "Login Page Purple",
     'summary': """
     Website portal login page with purple theme and fullscreen""",
-    'version': '13.0.1.0.0',
+    'version': '1.0.0',
     'category': 'Website',
     'description': """
     - Website portal login page purple theme
